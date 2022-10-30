@@ -1,0 +1,5 @@
+HeavyTruck 1178.3 630.0 13.8 16.4
+MotorCyclist 1142.55 651.05 4.3 6.9
+Truck 1234.3 626.55 19.0 26.7
+HeavyTruck 1178.3 630.0 13.8 16.4
+MotorCyclist 1142.55 651.05 4.3 6.9

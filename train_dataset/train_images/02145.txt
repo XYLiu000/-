@@ -1,0 +1,7 @@
+MotorCyclist 1128.15 641.05 4.3 8.5
+MotorCyclist 1233.15 639.45 9.1 6.1
+Car 1282.2 642.85 10.8 7.3
+MotorCyclist 449.7 671.8 31.0 51.6
+MotorCyclist 1128.15 641.05 4.3 8.5
+MotorCyclist 1233.15 639.45 9.1 6.1
+Car 1282.2 642.85 10.8 7.3

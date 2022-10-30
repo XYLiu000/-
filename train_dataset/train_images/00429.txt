@@ -1,0 +1,11 @@
+TricycleOpenMotor 2027.2 624.9 68.0 81.8
+MotorCyclist 1386.6 645.55 10.4 35.5
+Car 1093.4 646.3 14.0 9.8
+MotorCyclist 1242.9 646.3 4.2 9.8
+LargeBus 1193.15 640.75 14.3 9.1
+Car 643.55 658.8 139.5 112.0
+TricycleOpenMotor 2027.2 624.9 68.0 81.8
+MotorCyclist 1386.6 645.55 10.4 35.5
+Car 1093.4 646.3 14.0 9.8
+MotorCyclist 1242.9 646.3 4.2 9.8
+LargeBus 1193.15 640.75 14.3 9.1

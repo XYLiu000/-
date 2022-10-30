@@ -1,0 +1,15 @@
+HeavyTruck 957.85 484.5 96.5 138.6
+HeavyTruck 1133.15 562.4 26.7 39.6
+TricycleOpenMotor 1224.8 506.4 62.0 106.8
+LightTruck 1374.65 606.7 51.7 52.6
+MotorCyclist 1617.2 611.9 16.4 42.2
+MotorCyclist 2278.25 639.55 29.3 83.5
+Car 1798.45 615.4 237.7 90.4
+HeavyTruck 171.85 408.65 343.7 266.1
+HeavyTruck 957.85 484.5 96.5 138.6
+HeavyTruck 1133.15 562.4 26.7 39.6
+TricycleOpenMotor 1224.8 506.4 62.0 106.8
+LightTruck 1374.65 606.7 51.7 52.6
+MotorCyclist 1617.2 611.9 16.4 42.2
+MotorCyclist 2278.25 639.55 29.3 83.5
+Car 1798.45 615.4 237.7 90.4

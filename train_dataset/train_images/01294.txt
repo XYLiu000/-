@@ -1,0 +1,17 @@
+MotorCyclist 414.45 672.65 29.3 63.7
+BiCyclist 736.55 664.1 25.9 25.8
+TricycleOpenMotor 952.7 641.55 41.4 43.1
+Truck 1198.7 545.65 64.6 109.3
+HeavyTruck 1128.85 594.75 35.3 49.1
+HeavyTruck 1097.8 608.05 21.6 34.5
+Pickup 1410.05 650.3 63.7 53.4
+MotorCyclist 1540.1 644.2 13.8 27.6
+HeavyTruck 104.4 628.7 94.8 93.0
+MotorCyclist 414.45 672.65 29.3 63.7
+BiCyclist 736.55 664.1 25.9 25.8
+TricycleOpenMotor 952.7 641.55 41.4 43.1
+Truck 1198.7 545.65 64.6 109.3
+HeavyTruck 1128.85 594.75 35.3 49.1
+HeavyTruck 1097.8 608.05 21.6 34.5
+Pickup 1410.05 650.3 63.7 53.4
+MotorCyclist 1540.1 644.2 13.8 27.6

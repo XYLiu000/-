@@ -1,0 +1,7 @@
+Pedestrian 1175.6 658.5 7.6 28.2
+TricycleOpenMotor 1251.35 662.25 23.9 42.1
+LargeBus 997.15 607.35 78.3 77.1
+Truck 471.7 636.5 47.4 60.2
+Pedestrian 1175.6 658.5 7.6 28.2
+TricycleOpenMotor 1251.35 662.25 23.9 42.1
+LargeBus 997.15 607.35 78.3 77.1

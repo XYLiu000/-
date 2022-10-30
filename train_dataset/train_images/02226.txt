@@ -1,0 +1,9 @@
+MotorCyclist 1267.4 632.9 10.0 17.0
+MotorCyclist 1314.45 629.15 12.9 19.5
+MotorCyclist 1350.65 628.75 7.7 20.3
+Car 1472.05 639.15 20.9 16.7
+Pedestrian 1069.0 637.45 10 26.1
+MotorCyclist 1267.4 632.9 10.0 17.0
+MotorCyclist 1314.45 629.15 12.9 19.5
+MotorCyclist 1350.65 628.75 7.7 20.3
+Car 1472.05 639.15 20.9 16.7

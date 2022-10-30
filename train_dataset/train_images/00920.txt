@@ -1,0 +1,15 @@
+EngineTruck 1162.25 508.6 168.1 154.4
+TricycleClosed 1613.95 620.25 37.1 44.1
+van 1515.95 607.5 49.9 41.8
+BiCyclist 461.85 655.4 24.1 39.6
+MotorCyclist 1691.4 623.8 5.6 18.8
+Pedestrian 1702.4 620.55 7.2 15.5
+Truck 1986.7 546.15 99.0 95.1
+TricycleOpenMotor 1513.65 633.0 86.9 139.2
+EngineTruck 1162.25 508.6 168.1 154.4
+TricycleClosed 1613.95 620.25 37.1 44.1
+van 1515.95 607.5 49.9 41.8
+BiCyclist 461.85 655.4 24.1 39.6
+MotorCyclist 1691.4 623.8 5.6 18.8
+Pedestrian 1702.4 620.55 7.2 15.5
+Truck 1986.7 546.15 99.0 95.1

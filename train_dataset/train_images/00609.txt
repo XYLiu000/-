@@ -1,0 +1,13 @@
+Pedestrian 906.3 653.85 17.4 36.5
+LargeBus 1251.3 548.0 111.0 133.6
+MotorCyclist 1758.35 692.6 111.9 198.8
+Pedestrian 2164.5 673.1 40.2 134.2
+Motorcycle 2272.3 686.55 63.8 119.1
+Motorcycle 2116.85 667.9 123.7 101.8
+LightTruck 700.15 629.45 40.3 32.1
+Pedestrian 906.3 653.85 17.4 36.5
+LargeBus 1251.3 548.0 111.0 133.6
+MotorCyclist 1758.35 692.6 111.9 198.8
+Pedestrian 2164.5 673.1 40.2 134.2
+Motorcycle 2272.3 686.55 63.8 119.1
+Motorcycle 2116.85 667.9 123.7 101.8

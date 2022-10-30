@@ -1,0 +1,11 @@
+TricycleOpenMotor 2460.4 655.8 66.4 157.6
+HeavyTruck 1962.15 561.9 241.1 104.2
+HeavyTruck 1727.8 582.65 106.8 80.1
+HeavyTruck 1552.55 571.9 111.1 75.8
+LargeBus 1096.55 602.45 77.5 74.9
+Truck 619.8 648.1 33.6 42.2
+TricycleOpenMotor 2460.4 655.8 66.4 157.6
+HeavyTruck 1962.15 561.9 241.1 104.2
+HeavyTruck 1727.8 582.65 106.8 80.1
+HeavyTruck 1552.55 571.9 111.1 75.8
+LargeBus 1096.55 602.45 77.5 74.9

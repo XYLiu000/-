@@ -1,0 +1,15 @@
+LargeBus 1285.2 532.4 113.6 136.8
+MotorCyclist 1767.5 694.4 91 168.8
+MotorCyclist 1912.9 654.7 27.8 90.2
+Motorcycle 1973.4 661.9 54.0 81.8
+MotorCyclist 1481.7 633.55 12.2 27.1
+MotorCyclist 1458.5 639.35 9 20.7
+MotorCyclist 1062.9 639.0 13.8 26.4
+LightTruck 837.95 621.5 53.5 32.2
+LargeBus 1285.2 532.4 113.6 136.8
+MotorCyclist 1767.5 694.4 91 168.8
+MotorCyclist 1912.9 654.7 27.8 90.2
+Motorcycle 1973.4 661.9 54.0 81.8
+MotorCyclist 1481.7 633.55 12.2 27.1
+MotorCyclist 1458.5 639.35 9 20.7
+MotorCyclist 1062.9 639.0 13.8 26.4

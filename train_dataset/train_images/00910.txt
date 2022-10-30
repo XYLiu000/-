@@ -1,0 +1,15 @@
+Car 730.75 640.2 49.5 34.4
+MotorCyclist 852.4 639.95 10.8 15.5
+EngineTruck 1019.35 563.55 67.1 83.1
+van 1202.25 624.05 26.9 30.9
+TricycleOpenMotor 1251.2 630.1 28.0 42.2
+MotorCyclist 1403.55 637.95 15.1 37.9
+TricycleClosed 1681.7 641.05 50.2 32.1
+Car 159.25 771.45 318.5 314.1
+Car 730.75 640.2 49.5 34.4
+MotorCyclist 852.4 639.95 10.8 15.5
+EngineTruck 1019.35 563.55 67.1 83.1
+van 1202.25 624.05 26.9 30.9
+TricycleOpenMotor 1251.2 630.1 28.0 42.2
+MotorCyclist 1403.55 637.95 15.1 37.9
+TricycleClosed 1681.7 641.05 50.2 32.1

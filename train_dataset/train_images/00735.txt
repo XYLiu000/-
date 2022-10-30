@@ -1,0 +1,15 @@
+LargeBus 1136.1 580.05 115.4 92.1
+van 507.4 676.05 50.0 46.5
+MotorCyclist 484.3 702.75 31.0 48.3
+BiCyclist 407.55 712.2 15.5 50.0
+Pedestrian 332.6 714.35 10.4 26.7
+Pedestrian 330.5 722.1 9.4 25.0
+Motorcycle 136.3 706.15 65.4 55.1
+MotorCyclist 1757.6 648.45 62.8 118.9
+LargeBus 1136.1 580.05 115.4 92.1
+van 507.4 676.05 50.0 46.5
+MotorCyclist 484.3 702.75 31.0 48.3
+BiCyclist 407.55 712.2 15.5 50.0
+Pedestrian 332.6 714.35 10.4 26.7
+Pedestrian 330.5 722.1 9.4 25.0
+Motorcycle 136.3 706.15 65.4 55.1

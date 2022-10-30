@@ -1,0 +1,11 @@
+LightTruck 2368.75 545.5 127.5 97.0
+EngineTruck 1018.25 519.4 162.1 194.8
+van 1364.85 651.0 50.1 59.2
+MotorCyclist 1444.0 659.1 12.8 29.0
+EngineTruck 707.65 586.85 92.1 95.3
+TricycleClosed 1609.9 656.8 52.2 80.0
+LightTruck 2368.75 545.5 127.5 97.0
+EngineTruck 1018.25 519.4 162.1 194.8
+van 1364.85 651.0 50.1 59.2
+MotorCyclist 1444.0 659.1 12.8 29.0
+EngineTruck 707.65 586.85 92.1 95.3

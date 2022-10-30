@@ -1,0 +1,9 @@
+MotorCyclist 1448.0 623.95 12 31.9
+MotorCyclist 1373.5 632.65 14.6 35.3
+van 1170.65 611.05 63.7 74.9
+HeavyTruck 239.45 246.45 478.9 492.9
+TricycleClosed 2240.8 642.0 212.8 381.6
+MotorCyclist 1448.0 623.95 12 31.9
+MotorCyclist 1373.5 632.65 14.6 35.3
+van 1170.65 611.05 63.7 74.9
+HeavyTruck 239.45 246.45 478.9 492.9

@@ -1,0 +1,15 @@
+LargeBus 1281.25 520.3 120.9 144.6
+MotorCyclist 1530.85 613.9 8.5 19.0
+MotorCyclist 1545.0 616.95 10 25.1
+MotorCyclist 1650.5 659.5 65 127.8
+Motorcycle 1763.85 628.65 35.3 47.3
+TricycleOpenMotor 1992.1 629.65 144.2 166.9
+Car 2020.4 657.45 142.0 81.7
+LightTruck 997.85 606.7 40.1 26.6
+LargeBus 1281.25 520.3 120.9 144.6
+MotorCyclist 1530.85 613.9 8.5 19.0
+MotorCyclist 1545.0 616.95 10 25.1
+MotorCyclist 1650.5 659.5 65 127.8
+Motorcycle 1763.85 628.65 35.3 47.3
+TricycleOpenMotor 1992.1 629.65 144.2 166.9
+Car 2020.4 657.45 142.0 81.7

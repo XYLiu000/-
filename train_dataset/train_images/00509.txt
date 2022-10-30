@@ -1,0 +1,13 @@
+MotorCyclist 848.0 645.1 11.2 25.8
+MotorCyclist 1006.6 611.45 11.2 17.3
+Car 1060.9 641.25 64.6 52.5
+LargeBus 1264.5 581.0 65.4 73.2
+MotorCyclist 1430.65 620.6 12.1 28.4
+Pedestrian 1468.55 621.8 15.5 27.6
+MotorCyclist 685.35 664.5 16.3 37
+MotorCyclist 848.0 645.1 11.2 25.8
+MotorCyclist 1006.6 611.45 11.2 17.3
+Car 1060.9 641.25 64.6 52.5
+LargeBus 1264.5 581.0 65.4 73.2
+MotorCyclist 1430.65 620.6 12.1 28.4
+Pedestrian 1468.55 621.8 15.5 27.6

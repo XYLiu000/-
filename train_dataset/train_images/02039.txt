@@ -1,0 +1,3 @@
+MotorCyclist 79.2 684.4 158.4 167.6
+MotorCyclist 1967.05 706.1 191.3 178.6
+MotorCyclist 79.2 684.4 158.4 167.6

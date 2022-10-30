@@ -1,0 +1,3 @@
+EngineTruck 1013.85 550.3 81.7 95.4
+HeavyTruck 944.9 584.9 71.8 51.4
+EngineTruck 1013.85 550.3 81.7 95.4

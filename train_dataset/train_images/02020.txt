@@ -1,0 +1,11 @@
+LightTruck 359.8 636.4 85.2 50.0
+MotorCyclist 1250.75 640.75 10.3 20.7
+Car 1121.05 640.8 23.3 17.2
+LightTruck 1151.7 634.75 8.6 15.5
+MotorCyclist 1067.65 644.25 6.1 13.7
+LightTruck 174.95 634.75 105.1 49.9
+LightTruck 359.8 636.4 85.2 50.0
+MotorCyclist 1250.75 640.75 10.3 20.7
+Car 1121.05 640.8 23.3 17.2
+LightTruck 1151.7 634.75 8.6 15.5
+MotorCyclist 1067.65 644.25 6.1 13.7

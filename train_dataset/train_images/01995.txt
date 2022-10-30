@@ -1,0 +1,15 @@
+MotorCyclist 671.45 660.15 30.1 50.3
+MotorCyclist 778.65 649.05 33.7 37.7
+MotorCyclist 943.85 638.95 21.3 30.7
+HeavyTruck 1915.4 590.6 269.6 74.0
+Car 1601.7 638.9 45.4 26.2
+Car 1388.35 663.0 53.5 42.4
+TricycleClosed 2181.6 680.0 190.0 251.2
+MotorCyclist 88.2 697.85 92.0 127.3
+MotorCyclist 671.45 660.15 30.1 50.3
+MotorCyclist 778.65 649.05 33.7 37.7
+MotorCyclist 943.85 638.95 21.3 30.7
+HeavyTruck 1915.4 590.6 269.6 74.0
+Car 1601.7 638.9 45.4 26.2
+Car 1388.35 663.0 53.5 42.4
+TricycleClosed 2181.6 680.0 190.0 251.2

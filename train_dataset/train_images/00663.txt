@@ -1,0 +1,17 @@
+MotorCyclist 1324.7 622.25 13.8 35.3
+MotorCyclist 1280.85 609.3 12.1 30.2
+LargeBus 1230.55 597.65 21.5 24.1
+EngineTruck 665.9 587.35 98.2 55.1
+HeavyTruck 387.35 490.5 247.1 161
+HeavyTruck 16.85 544.7 33.7 104.2
+HeavyTruck 36.65 557.15 73.3 105.1
+HeavyTruck 66.35 557.3 132.7 87.8
+Pedestrian 1531.45 626.6 17.3 40.4
+MotorCyclist 1324.7 622.25 13.8 35.3
+MotorCyclist 1280.85 609.3 12.1 30.2
+LargeBus 1230.55 597.65 21.5 24.1
+EngineTruck 665.9 587.35 98.2 55.1
+HeavyTruck 387.35 490.5 247.1 161
+HeavyTruck 16.85 544.7 33.7 104.2
+HeavyTruck 36.65 557.15 73.3 105.1
+HeavyTruck 66.35 557.3 132.7 87.8

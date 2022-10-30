@@ -1,0 +1,11 @@
+Pedestrian 1347.7 656.5 19.8 55.4
+LargeBus 862.9 598.5 85.4 82.2
+MotorCyclist 332.5 655.95 5.8 20.3
+Car 303.75 648.55 10.7 16.7
+MotorCyclist 262.85 649.8 4.9 16.0
+TricycleOpenMotor 1436.65 669.55 42.1 81.5
+Pedestrian 1347.7 656.5 19.8 55.4
+LargeBus 862.9 598.5 85.4 82.2
+MotorCyclist 332.5 655.95 5.8 20.3
+Car 303.75 648.55 10.7 16.7
+MotorCyclist 262.85 649.8 4.9 16.0
